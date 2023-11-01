@@ -50,6 +50,19 @@ font-weight: bold;
 .section1{border: 1px solid white;
 background-color: blueviolet;
 }
-.caketextcaption{font-size: 15px;
+.caption{font-size: 15px;
 font-style: italic;
+text-align: center;
+}
+.container{display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+}
+.cakeitem{border: 1px dashed yellow;
+width: 275px;
+height: 275px;
+padding: 4px;
+}
+.cakegroup{border: 2px greenyellow;
+width: 275px;
 }
