@@ -58,11 +58,9 @@ text-align: center;
 justify-content: space-evenly;
 flex-wrap: wrap;
 }
-.cakeitem{border: 1px dashed yellow;
-width: 275px;
+.cakeitem{width: 275px;
 height: 275px;
 padding: 4px;
 }
-.cakegroup{border: 2px greenyellow;
-width: 275px;
+.cakegroup{width: 275px;
 }
