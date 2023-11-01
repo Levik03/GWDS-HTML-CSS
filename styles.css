@@ -37,3 +37,13 @@ font-weight: bold;
 }
 .pizza{width: 50%;
 }
+a{color: white;
+}
+/*cake page*/
+
+.caketext{font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: left;
+color: white;
+font-size: 25px;
+font-weight: bold;
+}
